@@ -32,4 +32,4 @@ def main():
     print(f"Paragraphs: {paragraph_count}")
 
 if __name__ == "__main__":
-    main()
+    main() 
